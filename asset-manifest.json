@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/NftTicket/static/css/main.7bd11ebf.chunk.css",
+    "main.css": "/NftTicket/static/css/main.1a7a4728.chunk.css",
     "main.js": "/NftTicket/static/js/main.ee5a2aeb.chunk.js",
     "main.js.map": "/NftTicket/static/js/main.ee5a2aeb.chunk.js.map",
     "runtime-main.js": "/NftTicket/static/js/runtime-main.6ec55b57.js",
@@ -8,14 +8,14 @@
     "static/js/2.1ecb3640.chunk.js": "/NftTicket/static/js/2.1ecb3640.chunk.js",
     "static/js/2.1ecb3640.chunk.js.map": "/NftTicket/static/js/2.1ecb3640.chunk.js.map",
     "index.html": "/NftTicket/index.html",
-    "precache-manifest.05ccdc3319cd67bdb047e3ee49c1e9dd.js": "/NftTicket/precache-manifest.05ccdc3319cd67bdb047e3ee49c1e9dd.js",
+    "precache-manifest.5ffb690d445f561ab6a3ae71b1679b6d.js": "/NftTicket/precache-manifest.5ffb690d445f561ab6a3ae71b1679b6d.js",
     "service-worker.js": "/NftTicket/service-worker.js",
-    "static/css/main.7bd11ebf.chunk.css.map": "/NftTicket/static/css/main.7bd11ebf.chunk.css.map"
+    "static/css/main.1a7a4728.chunk.css.map": "/NftTicket/static/css/main.1a7a4728.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.6ec55b57.js",
     "static/js/2.1ecb3640.chunk.js",
-    "static/css/main.7bd11ebf.chunk.css",
+    "static/css/main.1a7a4728.chunk.css",
     "static/js/main.ee5a2aeb.chunk.js"
   ]
 }

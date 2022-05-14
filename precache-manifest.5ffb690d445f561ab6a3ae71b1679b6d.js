@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a86020a17ac9ff43d0baf06adacedb4e",
+    "revision": "bd0effcb4097733f44b148d54245f9d2",
     "url": "/NftTicket/index.html"
   },
   {
-    "revision": "d8ef63e7f014531728e2",
-    "url": "/NftTicket/static/css/main.7bd11ebf.chunk.css"
+    "revision": "ee95a34b078dd599106d",
+    "url": "/NftTicket/static/css/main.1a7a4728.chunk.css"
   },
   {
     "revision": "0825fb232f922ade49f9",
     "url": "/NftTicket/static/js/2.1ecb3640.chunk.js"
   },
   {
-    "revision": "d8ef63e7f014531728e2",
+    "revision": "ee95a34b078dd599106d",
     "url": "/NftTicket/static/js/main.ee5a2aeb.chunk.js"
   },
   {
