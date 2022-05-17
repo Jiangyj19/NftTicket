@@ -1,6 +1,6 @@
 build/
 *.swp
-
+*.sol
 node_modules/
 web/src/contracts
 .vs
