@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NftTicket/precache-manifest.5ffb690d445f561ab6a3ae71b1679b6d.js"
+  "/NftTicket/precache-manifest.c66d10b4461806a90858957213076ba4.js"
 );
 
 self.addEventListener('message', (event) => {
