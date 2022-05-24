@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Nft_Ticket/static/css/main.1a7a4728.chunk.css",
-    "main.js": "/Nft_Ticket/static/js/main.17e91712.chunk.js",
-    "main.js.map": "/Nft_Ticket/static/js/main.17e91712.chunk.js.map",
-    "runtime-main.js": "/Nft_Ticket/static/js/runtime-main.a5ea9bfa.js",
-    "runtime-main.js.map": "/Nft_Ticket/static/js/runtime-main.a5ea9bfa.js.map",
-    "static/js/2.82546521.chunk.js": "/Nft_Ticket/static/js/2.82546521.chunk.js",
-    "static/js/2.82546521.chunk.js.map": "/Nft_Ticket/static/js/2.82546521.chunk.js.map",
-    "index.html": "/Nft_Ticket/index.html",
-    "precache-manifest.8c4b238d172350c72d8699998f1e763d.js": "/Nft_Ticket/precache-manifest.8c4b238d172350c72d8699998f1e763d.js",
-    "service-worker.js": "/Nft_Ticket/service-worker.js",
-    "static/css/main.1a7a4728.chunk.css.map": "/Nft_Ticket/static/css/main.1a7a4728.chunk.css.map"
+    "main.css": "/NftTicket/static/css/main.1a7a4728.chunk.css",
+    "main.js": "/NftTicket/static/js/main.75297df4.chunk.js",
+    "main.js.map": "/NftTicket/static/js/main.75297df4.chunk.js.map",
+    "runtime-main.js": "/NftTicket/static/js/runtime-main.6ec55b57.js",
+    "runtime-main.js.map": "/NftTicket/static/js/runtime-main.6ec55b57.js.map",
+    "static/js/2.71c41df1.chunk.js": "/NftTicket/static/js/2.71c41df1.chunk.js",
+    "static/js/2.71c41df1.chunk.js.map": "/NftTicket/static/js/2.71c41df1.chunk.js.map",
+    "index.html": "/NftTicket/index.html",
+    "precache-manifest.c66d10b4461806a90858957213076ba4.js": "/NftTicket/precache-manifest.c66d10b4461806a90858957213076ba4.js",
+    "service-worker.js": "/NftTicket/service-worker.js",
+    "static/css/main.1a7a4728.chunk.css.map": "/NftTicket/static/css/main.1a7a4728.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5ea9bfa.js",
-    "static/js/2.82546521.chunk.js",
+    "static/js/runtime-main.6ec55b57.js",
+    "static/js/2.71c41df1.chunk.js",
     "static/css/main.1a7a4728.chunk.css",
-    "static/js/main.17e91712.chunk.js"
+    "static/js/main.75297df4.chunk.js"
   ]
 }
